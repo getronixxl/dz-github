@@ -1,2 +1,1 @@
-name = "Ипатов Дмитрий"
-print('Hello, {name}, good day!')
+print('Hello, Ипатов Дмитрий , good day!')
